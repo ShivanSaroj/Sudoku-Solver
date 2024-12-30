@@ -12,7 +12,7 @@ Responsive Design: Works on desktop and mobile devices.
 Installation
 Clone this repository:
 using command-
-git clone https://github.com/your-username/sudoku-solver.git
+git clone https://github.com/ShivanSaroj/Sudoku-Solver.git
 Navigate to the project folder:
 using command-
 cd sudoku-solver
